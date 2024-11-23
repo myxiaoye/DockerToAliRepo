@@ -1,1 +1,8 @@
 xhofe/alist
+amilys/embyserver
+homeassistant/home-assistant
+linuxserver/qbittorrent
+superng6/qbittorrent
+hsuyelin/nas-tools
+linuxserver/jackett
+allanpk716/chinesesubfinder
