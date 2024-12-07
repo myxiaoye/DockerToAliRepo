@@ -8,3 +8,5 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 qdtoday/qd
 diluka/nas-tools
+flaresolverr/flaresolverr
+filebrowser/filebrowser
