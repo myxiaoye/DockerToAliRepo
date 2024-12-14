@@ -3,10 +3,9 @@ amilys/embyserver
 homeassistant/home-assistant
 linuxserver/qbittorrent
 superng6/qbittorrent
-hsuyelin/nas-tools
 linuxserver/jackett
 allanpk716/chinesesubfinder
 qdtoday/qd
-diluka/nas-tools
+diluka/nas-tools:2.9.1
 flaresolverr/flaresolverr
 filebrowser/filebrowser
