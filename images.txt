@@ -1,6 +1,6 @@
 xhofe/alist
 amilys/embyserver
-homeassistant/home-assistant
+ghcr.io/home-assistant/home-assistant:stable
 linuxserver/qbittorrent
 superng6/qbittorrent
 linuxserver/jackett
