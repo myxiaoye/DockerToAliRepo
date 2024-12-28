@@ -18,3 +18,4 @@ gdy666/lucky
 ghcr.io/wg-easy/wg-easy
 dko0/lsky-pro
 mysql:8.0
+hslr/sun-panel:latest
