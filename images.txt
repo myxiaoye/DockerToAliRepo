@@ -1,4 +1,4 @@
-docker pull crazyq/pt_helper
+crazyq/pt_helper
 xhofe/alist
 amilys/embyserver
 ghcr.io/home-assistant/home-assistant:stable
