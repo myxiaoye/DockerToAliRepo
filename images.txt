@@ -21,3 +21,4 @@ dko0/lsky-pro
 mysql:8.0
 hslr/sun-panel:latest
 gdy666/lucky
+fooololo/alger-music-player
