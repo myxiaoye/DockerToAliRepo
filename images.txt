@@ -1,5 +1,6 @@
 crazyq/pt_helper
 xhofe/alist
+finab/bark-server
 amilys/embyserver
 ghcr.io/home-assistant/home-assistant:stable
 linuxserver/qbittorrent
@@ -22,3 +23,4 @@ mysql:8.0
 hslr/sun-panel:latest
 gdy666/lucky
 fooololo/alger-music-player
+finab/bark-server
