@@ -3,7 +3,8 @@ xhofe/alist
 finab/bark-server
 amilys/embyserver
 ghcr.io/home-assistant/home-assistant:stable
-linuxserver/qbittorrent
+linuxserver/qbittorrent:latest
+jxxghp/moviepilot-v2:latest
 superng6/qbittorrent
 linuxserver/jackett
 allanpk716/chinesesubfinder
